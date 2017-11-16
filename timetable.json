@@ -1,4 +1,14 @@
 {
+    "start_date": "2017-10-18",
+    "end_date": "2017-11-18",
+    "network": "NI-Estelí",
+    "operator": "Alcaldía Estelí",
+    "source": "knowledge",
+    "updated": "2017-10-18",
+    "excluded_lines": [
+        "4",
+        "5"
+    ],
     "lines": {
         "1": [
             {
@@ -1290,12 +1300,12 @@
         ],
         "3": [
             {
-                "from": "Sandino / Puesto de Salud Ronaldo Arauz",
+                "from": "Sandino / Puesto de Salud Ronaldo Aráuz",
                 "services": [
                     "Mo-Sa"
                 ],
                 "stations": [
-                    "Sandino / Puesto de Salud Ronaldo Arauz",
+                    "Sandino / Puesto de Salud Ronaldo Aráuz",
                     "Hospital"
                 ],
                 "times": [
@@ -1549,7 +1559,7 @@
                 ],
                 "stations": [
                     "Hospital",
-                    "Sandino / Puesto de Salud Ronaldo Arauz"
+                    "Sandino / Puesto de Salud Ronaldo Aráuz"
                 ],
                 "times": [
                     [
@@ -1793,7 +1803,7 @@
                         "18:38"
                     ]
                 ],
-                "to": "Sandino / Puesto de Salud Ronaldo Arauz"
+                "to": "Sandino / Puesto de Salud Ronaldo Aráuz"
             }
         ]
     }
