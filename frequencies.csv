@@ -4,9 +4,9 @@ ref,from,to,via,intermediates,opening-hours,exceptions,duration,intermediate-dur
 1,Hospital,FAREM Norte,,,Mo-Sa 06:15-18:55;Mo-Sa 19:25,,35,,10
 1,Hospital,FAREM Norte,,,Su 06:55; Su 07:35-17:35; Su 18:25,,35,,20
 2,FAREM Norte,Hospital,,,Mo-Sa 05:45-18:05,,35,,10
-2,FAREM Norte,Hospital,,,Su 06:30; Su 07:10-15:50; Su 16:30; Su 17:50,,35,,20
+2,FAREM Norte,Hospital,,,Su 06:10-06:30; Su 07:10-16:50; Su 17:30-17:50,,35,,20
 2,Hospital,FAREM Norte,,,Mo-Sa 06:20-18:40,,35,,10
-2,Hospital,FAREM Norte,,,Su 07:05; Su 07:45-16:25; Su 17:05; Su 18:35,,35,,20
+2,Hospital,FAREM Norte,,,Su 06:45-07:05; Su 07:45-17:25; Su 18:05-18:25,,35,,20
 3,Sandino / Puesto de Salud Ronaldo Aráuz,Hospital,,,Mo-Sa 06:00-17:48;Mo-Sa 18:12,,25,,12
 3,Hospital,Sandino / Puesto de Salud Ronaldo Aráuz,,,Mo-Sa 06:25-18:13;Mo-Sa 18:37,,25,,12
 4,Villa Cuba,Hospital,,Puesto de Agua;La Pensa;Entrada al Rosario;Escuela Bertha Briones;Autolote del Norte;El Molino;El Hogar Chavalito;UPOLI;Shell Esquipulas;Mercado / Colegio Norte,Mo-Fr 05:35-18:05,,50,5;10;15;19;23;27;31;35;39;43,25
