@@ -1,0 +1,62 @@
+{
+    "start_date": "2018-01-01",
+    "end_date": "2018-12-31",
+    "updated": "2018-02-05",
+    "currency": "NIO",
+    "payment_method": "0",
+    "transfers": "0",
+    "lines": {
+        "1": [
+            {
+                "services": [
+                    "Mo-Sa"
+                ],
+                "general_fare": "4"
+            },
+            {
+                "services": [
+                    "Su"
+                ],
+                "general_fare": "5"
+            }
+        ],
+        "2": [
+            {
+                "services": [
+                    "Mo-Sa"
+                ],
+                "general_fare": "4"
+            },
+            {
+                "services": [
+                    "Su"
+                ],
+                "general_fare": "5"
+            }
+        ],
+        "3": [
+            {
+                "services": [
+                    "Mo-Sa"
+                ],
+                "general_fare": "4"
+            }
+        ],
+        "4": [
+            {
+                "services": [
+                    "Mo-Su"
+                ],
+                "general_fare": "6"
+            }
+        ],
+        "5": [
+            {
+                "services": [
+                    "Mo-Sa"
+                ],
+                "general_fare": "4"
+            }
+        ]
+    }
+}
