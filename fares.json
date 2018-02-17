@@ -2,7 +2,7 @@
     "start_date": "2018-01-01",
     "end_date": "2018-12-31",
     "updated": "2018-02-05",
-    "currency": "NIO",
+    "currency_type": "NIO",
     "payment_method": "0",
     "transfers": "0",
     "lines": {
