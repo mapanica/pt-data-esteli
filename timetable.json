@@ -2852,7 +2852,8 @@
                         "18:55"
                     ]
                 ],
-                "to": "Hospital"
+                "to": "Hospital",
+                "via": "Villa Esperanza"
             },
             {
                 "exeptions": [],
@@ -3304,7 +3305,8 @@
                         "20:29"
                     ]
                 ],
-                "to": "Villa Cuba"
+                "to": "Villa Cuba",
+                "via": "Villa Esperanza"
             }
         ],
         "5": [
@@ -3468,7 +3470,8 @@
                         "18:40"
                     ]
                 ],
-                "to": "Roba Casa"
+                "to": "Roba Casa",
+                "via": "Hospital"
             },
             {
                 "exeptions": [],
@@ -3630,10 +3633,11 @@
                         "19:15"
                     ]
                 ],
-                "to": "UNI"
+                "to": "UNI",
+                "via": "Hospital"
             }
         ]
     },
     "start_date": "2017-12-06",
-    "updated": "2018-02-05"
+    "updated": "2018-03-01"
 }

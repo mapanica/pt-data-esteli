@@ -9,7 +9,7 @@ ref,from,to,via,intermediates,opening-hours,exceptions,duration,intermediate-dur
 2,Hospital,FAREM Norte,,,Su 06:45-07:05; Su 07:45-17:25; Su 18:05-18:25,,35,,20
 3,Sandino / Puesto de Salud Ronaldo Aráuz,Hospital,,,Mo-Sa 06:00-17:48;Mo-Sa 18:12,,25,,12
 3,Hospital,Sandino / Puesto de Salud Ronaldo Aráuz,,,Mo-Sa 06:25-18:13;Mo-Sa 18:37,,25,,12
-4,Villa Cuba,Hospital,,Puesto de Agua;La Pensa;Entrada al Rosario;Escuela Bertha Briones;Autolote del Norte;El Molino;El Hogar Chavalito;UPOLI;Shell Esquipulas;Mercado / Colegio Norte,Mo-Fr 05:35-18:05,,50,5;10;15;19;23;27;31;35;39;43,25
-4,Hospital,Villa Cuba,,Shell Esquipulas;UPOLI;El Hogar Chavalito;El Molino;Autolote del Norte;Escuela Bertha Briones;Entrada al Rosario;La Pensa;Puesto de Agua,Mo-Fr 06:25-19:55,,44,5;9;13;17;21;25;29;34;39,25
-5,UNI,Roba Casa,,,Mo-Sa 06:05-18:05,,35,,20
-5,Roba Casa,UNI,,,Mo-Sa 06:40-18:40,,35,,20
+4,Villa Cuba,Hospital,Villa Esperanza,Puesto de Agua;La Pensa;Entrada al Rosario;Escuela Bertha Briones;Autolote del Norte;El Molino;El Hogar Chavalito;UPOLI;Shell Esquipulas;Mercado / Colegio Norte,Mo-Fr 05:35-18:05,,50,5;10;15;19;23;27;31;35;39;43,25
+4,Hospital,Villa Cuba,Villa Esperanza,Shell Esquipulas;UPOLI;El Hogar Chavalito;El Molino;Autolote del Norte;Escuela Bertha Briones;Entrada al Rosario;La Pensa;Puesto de Agua,Mo-Fr 06:25-19:55,,44,5;9;13;17;21;25;29;34;39,25
+5,UNI,Roba Casa,Hospital,,Mo-Sa 06:05-18:05,,35,,20
+5,Roba Casa,UNI,Hospital,,Mo-Sa 06:40-18:40,,35,,20
